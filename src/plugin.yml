@@ -1,0 +1,12 @@
+name: KFFA
+version: 1.0
+author: Dome_HD
+description: KFFA for durchrasten
+main: durchrasten.klffa.main.Main
+commands:
+  setloc:
+  builder:
+  stats:
+  setspawn:
+  spectator:
+    aliases: [s]    
